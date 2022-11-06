@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-Laddha
 - 👀 I’m interested in 3 things - learning, learning and learning.
-- 🌱 I’m currently learning Next.js and ScyllaDB
+- 🌱 I am primarily working on Node.js (typescript)
 - 📫 Reach out to me on Slack or at shubham.laddha@delhivery.com
 
 <!---
